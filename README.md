@@ -1,6 +1,6 @@
 # Red-Demon
 
-# GitHub : 
+# GitHub : https://kazuya0606.github.io/Red-Demon/
 
 Brainstrom : https://trello.com/b/kFnTf21S/brainstoring
 
