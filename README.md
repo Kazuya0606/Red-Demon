@@ -1,6 +1,6 @@
 # Red-Demon
 
-#GitHub : 
+# GitHub : 
 
 Brainstrom : https://trello.com/b/kFnTf21S/brainstoring
 
